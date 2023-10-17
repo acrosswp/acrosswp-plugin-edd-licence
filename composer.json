@@ -1,0 +1,23 @@
+{
+    "name": "acrosswp/acrosswp-plugin-edd-licence",
+    "type": "library",
+    "license": "GPL-2.0-or-later",
+    "description": "Composer to autoload the AcrossWP Admin Dashboard licence Menu",
+    "homepage": "https://acrosswp.com/",
+    "keywords": [
+        "wordpress",
+        "plugin"
+    ],
+    "autoload": {
+        "files": ["across-menu-license.php"]
+    },
+    "support": {
+        "issues": "https://github.com/acrosswp/acrosswp-plugin-edd-licence/issues"
+    },
+    "authors": [
+        {
+            "name": "acrosswp",
+            "email": "contant@acrosswp.com"
+        }
+    ]
+}
