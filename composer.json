@@ -9,7 +9,7 @@
         "plugin"
     ],
     "autoload": {
-        "files": ["across-menu-license.php"]
+        "files": ["menu-license.php"]
     },
     "support": {
         "issues": "https://github.com/acrosswp/acrosswp-plugin-edd-licence/issues"
