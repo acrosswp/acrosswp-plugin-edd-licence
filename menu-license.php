@@ -72,7 +72,7 @@ class AcrossWP_Main_Menu_Licenses {
 
 		$this->define( 'ACROSSWP_MAIN_MENU_LICENSES', 'acrosswp-licenses' );
 
-		$this->packages = apply_filters( 'acrosswp_plugins_licenses', $this->packages );
+		$this->packages = apply_filters( 'acrosswp_edd_plugins_licenses', $this->packages );
 
 		/**
 		 * Add the parent menu into the Admin Dashboard
