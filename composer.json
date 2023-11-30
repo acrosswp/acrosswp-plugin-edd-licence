@@ -11,6 +11,9 @@
     "autoload": {
         "files": ["menu-license.php"]
     },
+    "require": {
+        "alledia/edd-sl-plugin-updater": "dev-master"
+    },
     "support": {
         "issues": "https://github.com/acrosswp/acrosswp-plugin-edd-licence/issues"
     },
