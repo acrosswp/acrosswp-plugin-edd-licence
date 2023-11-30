@@ -12,16 +12,6 @@ defined( 'ABSPATH' ) || exit;
  * @subpackage Post_Anonymously/includes
  */
 
-if ( ! class_exists( 'EDD_SL_Plugin_Updater' ) ) {
-	
-    /**
-     * The class responsible for loading edd updater class
-     * core plugin.
-     */
-    require_once POST_ANONYMOUSLY_PLUGIN_PATH . 'admin/licenses/EDD_SL_Plugin_Updater.php';
-}
-
-
 if( ! class_exists( 'AcrossWP_Main_Menu_Licenses' ) ) {
 	/**
 	 * Fired during plugin licenses.
